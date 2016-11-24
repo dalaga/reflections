@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	It quickly and effectively identified the changes and help locate where the bug could be found.
+	
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I will be able to see the changes and modifications to the file and when they were done. Hopefully understand why the changes or mods were implemented.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	Having control on when you commit a change will eliveate unncessary changes. By adding commits as per feature change will help you search for what is happening within the file when troubleshooting.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Git is apparently the better version control choice. The others are specific to the vendor that builds them. Git can do this because COMMIT is part of GIT. and DIFF works with COMMIT
+
+How might using version control make you more confident to make changes that could break something?
+
+	Version control definitely can make coding a lot easier for the developer. I like how the git diff and git log can work together to help compare changes and using git checkout to play out the code so one can see where a mistake was introduce. Definitely saves time and headache....
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I have been following the videos and enjoyed using the navigations commands, and the git commands of log, diff, and checkout. Super cool!!!
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	Initializing a repository creates an empty git repository with a .git file.  The reason to create a repository so you can begin to use version control and have more editing and troubleshooting capabilities.
+	
