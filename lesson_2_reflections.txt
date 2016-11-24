@@ -5,3 +5,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	The staging area is where your files that you want to be involved with the commit are moved to. The working directory is your working area where you store your files for your repository. There may be commit file or non-commit files in the working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+     I can use the staging area as a checkpoint for the commit making its way to the final commit. I can use git diff, git diff --staged commands to follow my changes from Working Directory into Staging. So it is a good thing to remember when making changes to your files and to make sure the changes make it to the end (repository)
