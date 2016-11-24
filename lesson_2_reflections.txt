@@ -9,3 +9,8 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
      I can use the staging area as a checkpoint for the commit making its way to the final commit. I can use git diff, git diff --staged commands to follow my changes from Working Directory into Staging. So it is a good thing to remember when making changes to your files and to make sure the changes make it to the end (repository)
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches can be useful if you want to experience on a new feature and what effect it may have on your code. The branching from the main Master line can preserve the original code from having all "experiment testing" commits. I think that branches help keep things orgainized and clean when you are writing code and when you are tracking bugs.
+	
