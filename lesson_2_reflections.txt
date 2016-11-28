@@ -18,5 +18,9 @@ How do the diagrams help you visualize the branch structure?
 
 	The diagrams definitely help visualize the paths of the each branch from the master branch. Plus it allows you to see which commit was done in which branch. A handy tool to have around to quickly see how the code is progressing via it's history / timeline.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	When doing a simple merge of branches the automatic merging can work. However, when there are conflicts. A manunal approach may work better. THere may be conflicts that you may need to check on with a developer and such.
+
 
 
