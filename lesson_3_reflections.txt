@@ -19,3 +19,8 @@ What is the benefit of having a copy of the last known state of the remote store
  How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
  	If I was not using Git or GitHub, I would probably be using Google Drive. I used Google Drive in the past to create and make changes to documents. Also tracking was done and sharing the folders for others to make changes. But I think you had to give permission to someone to change the file. Older versions were kept as the document went through changes. In comparison, I think that using Git and GitHub is much easier once you learn how to use the two together.... There is a learning curve.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	You would make a change in a different branch is you are testing someting or making modifications that you want to work with before mergin them into the master branch. It can also be a branch to collaborate with others via pull requests, finalized and then pull into the master. Branching out allows one to use pull requests to solicit changes and comments from others. Using the master can be beneficial is your project is small.
+
