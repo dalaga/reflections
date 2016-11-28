@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clones is when you want to copy a repository to your local drive.
 	Branches is when you create alternative paths for your code. Used to test our features or changes without really effecting the 
 	  the Master Branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+     Allows you to know what the latest state of the remote was when you pull in the remote. It also lets you compare changes added to the remote since you got your local copy. However, walking through the get fetch process, git status can give you an idea of the state of your local origin/master and the local master branch.
