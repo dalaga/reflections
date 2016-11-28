@@ -15,3 +15,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
      Allows you to know what the latest state of the remote was when you pull in the remote. It also lets you compare changes added to the remote since you got your local copy. However, walking through the get fetch process, git status can give you an idea of the state of your local origin/master and the local master branch.
+
+ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+ 	If I was not using Git or GitHub, I would probably be using Google Drive. I used Google Drive in the past to create and make changes to documents. Also tracking was done and sharing the folders for others to make changes. But I think you had to give permission to someone to change the file. Older versions were kept as the document went through changes. In comparison, I think that using Git and GitHub is much easier once you learn how to use the two together.... There is a learning curve.
