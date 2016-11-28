@@ -5,3 +5,9 @@ When would you want to use a remote repository rather than keeping all your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 	Because you do not want to accidently send changes that are not ready for commit or go live. It is much beter for you to control what is ready to commit than letting Git decide for you.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+        Forks is when you want to copy a repository on GitHub (Similar to Clone but used on GitHub only)
+	Clones is when you want to copy a repository to your local drive.
+	Branches is when you create alternative paths for your code. Used to test our features or changes without really effecting the 
+	  the Master Branch.
